@@ -13,7 +13,7 @@ Um projeto simples de **To-Do List** feito em Python para demonstrar:
    ```bash
    python main.py
 =======
-# Gerenciador de Tarefas com Agenda 🗓️✅
+# Gerenciador de Tarefas com Agenda 🗓️
 
 Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **Streamlit**, que permite organizar atividades com **data, horário inicial e final**, além de marcar como concluídas, remover, exportar e importar tarefas em formato CSV.
 
