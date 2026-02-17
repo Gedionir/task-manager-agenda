@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Correr",
+        "done": false,
+        "day": "2026-02-17",
+        "start_time": "06:00",
+        "end_time": "07:00"
+    },
+    {
+        "title": "Tomar banho",
+        "done": false,
+        "day": "2026-02-17",
+        "start_time": "20:00",
+        "end_time": "20:15"
+    },
+    {
+        "title": "Estudar medicina",
+        "done": false,
+        "day": "2026-02-18",
+        "start_time": "08:00",
+        "end_time": "12:00"
+    }
+]
