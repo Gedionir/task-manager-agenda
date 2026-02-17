@@ -59,6 +59,10 @@ cd projeto-tarefas
 
 ### Adicionando uma tarefa
 ![Adicionar tarefa](gerenciador-tela-02.png)
+
+
+![Tela inicial](images/gerenciador-tela-01.png)
+![Adicionar tarefa](images/gerenciador-tela-02.png)
 >>>>>>> 420cb016376e9f91b0a41179634adba49b3a0e6a
 
 
