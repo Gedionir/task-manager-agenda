@@ -57,27 +57,3 @@ No terminal do VS Code:
 git clone https://github.com/Gedionir/projeto-tarefas.git
 cd projeto-tarefas
 
-
-![Exemplo de execução](/gerenciador-tela-01.png)
-
-## 📸 Prints do Programa
-
-### Tela inicial
-![Tela inicial](gerenciador-tela-01.png)
-
-### Adicionando uma tarefa
-![Adicionar tarefa](Gedionir/task-manager-agenda/gerenciador-tela-02.png)
-
-
-![Tela inicial](images/gerenciador-tela-01.png)
-![Adicionar tarefa](images/gerenciador-tela-02.png)
->>>>>>> 420cb016376e9f91b0a41179634adba49b3a0e6a
-
-
-## 📸 Telas do Aplicativo
-
-### Tela Inicial
-![Tela inicial](gerente-tela-01.png)
-
-### Adicionar Tarefa
-![Adicionar tarefa](gerente-tela-02.png)
