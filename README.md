@@ -50,5 +50,5 @@ git clone https://github.com/Gedionir/projeto-tarefas.git
 cd projeto-tarefas
 >>>>>>> 420cb016376e9f91b0a41179634adba49b3a0e6a
 
-![Exemplo de execução](gerenciador-tela-01.png)
+![Exemplo de execução](/gerenciador-tela-01.png)
 
