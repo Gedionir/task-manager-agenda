@@ -3,10 +3,10 @@
 ## 📸 Telas do Aplicativo
 
 ### Tela Inicial
-![Tela inicial](gerente-tela-01.png)
+![Tela inicial](gerenciador-tela-01.png)
 
 ### Adicionar Tarefa
-![Adicionar tarefa](gerente-tela-02.png)
+![Adicionar tarefa](gerenciador-tela-02.png)
 
 Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **Streamlit**, que permite organizar atividades com **data, horário inicial e final**, além de marcar como concluídas, remover, exportar e importar tarefas em formato CSV.
 
