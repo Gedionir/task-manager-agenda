@@ -52,3 +52,11 @@ cd projeto-tarefas
 
 ![Exemplo de execução](/gerenciador-tela-01.png)
 
+## 📸 Prints do Programa
+
+### Tela inicial
+![Tela inicial](gerenciador-tela-01.png)
+
+### Adicionando uma tarefa
+![Adicionar tarefa](gerenciador-tela-02.png)
+
