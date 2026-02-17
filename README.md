@@ -60,7 +60,7 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **S
 - streamlit run app.py
   
 
-### 2. Clonar o repositório
+### 3. Clonar o repositório
 No terminal do VS Code:
 ```bash
 git clone https://github.com/Gedionir/projeto-tarefas.git
