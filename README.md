@@ -58,7 +58,7 @@ cd projeto-tarefas
 ![Tela inicial](gerenciador-tela-01.png)
 
 ### Adicionando uma tarefa
-![Adicionar tarefa](gerenciador-tela-02.png)
+![Adicionar tarefa](Gedionir/task-manager-agenda/gerenciador-tela-02.png)
 
 
 ![Tela inicial](images/gerenciador-tela-01.png)
