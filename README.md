@@ -66,4 +66,10 @@ cd projeto-tarefas
 >>>>>>> 420cb016376e9f91b0a41179634adba49b3a0e6a
 
 
+## 📸 Telas do Aplicativo
 
+### Tela Inicial
+![Tela inicial](gerente-tela-01.png)
+
+### Adicionar Tarefa
+![Adicionar tarefa](gerente-tela-02.png)
