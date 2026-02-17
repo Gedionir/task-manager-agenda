@@ -41,9 +41,6 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **S
 
 ---
 
-
----
-
 ## 🖥️ Como executar no Windows com Visual Studio Code
 
 ### 1. Pré-requisitos
