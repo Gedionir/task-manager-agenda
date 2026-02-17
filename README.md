@@ -26,4 +26,19 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **S
 
 ---
 
-## 📦 Estrutura do Projeto
+
+---
+
+## 🖥️ Como executar no Windows com Visual Studio Code
+
+### 1. Pré-requisitos
+- Instalar **Python 3.10+**
+- Instalar **pip** (gerenciador de pacotes do Python)
+- Instalar **Visual Studio Code**
+- Instalar extensão **Python** no VS Code
+
+### 2. Clonar o repositório
+No terminal do VS Code:
+```bash
+git clone https://github.com/Gedionir/projeto-tarefas.git
+cd projeto-tarefas
