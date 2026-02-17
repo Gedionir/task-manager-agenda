@@ -37,6 +37,14 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **S
 - Instalar **Visual Studio Code**
 - Instalar extensão **Python** no VS Code
 
+
+### 2. Executar o programa
+- Ativar:  .\venv\Scripts\activate
+- Instalar pip install streamlit
+- python -m pip show streamlit
+- streamlit run app.py
+  
+
 ### 2. Clonar o repositório
 No terminal do VS Code:
 ```bash
